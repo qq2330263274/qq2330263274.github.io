@@ -4,7 +4,7 @@ title:      思科
 subtitle:   思科bgp协议
 date:       2018-09-28
 author:     樱酱
-header-img: img/post-bg-ios10.jpg
+header-img: img/9728.jpg
 catalog: 	 true
 ---
 
