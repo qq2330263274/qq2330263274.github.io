@@ -98,9 +98,6 @@ service-worker: true
 
 
 # Friends
-
-script type="text/javascript" src="http://ipv6.he.net/v4ex/sidebar.js"></script>
-
 friends: [
     {
         title: "奋斗的博客",
@@ -115,4 +112,4 @@ friends: [
 #        title: "Apple Developer",
 #        href: "https://developer.apple.com/"
     }
-]
+<script type="text/javascript" src="http://ipv6.he.net/v4ex/sidebar.js"></script>]
