@@ -98,9 +98,12 @@ service-worker: true
 
 
 # Friends
+
+script type="text/javascript" src="http://ipv6.he.net/v4ex/sidebar.js"></script>
+
 friends: [
     {
-        title: "FD的博客",
+        title: "奋斗的博客",
         href: "http://dornick.top"
 #    },{
 #        title: "简书·BY",
